@@ -98,9 +98,9 @@ header .fa-play-circle-o {
 header .form {
   display: flex;
   -webkit-align-items: center;
-		        align-items: center;
-		    -webkit-justify-content: center;
-		            justify-content: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
   margin-top: 8rem;
   margin-bottom: 3rem;
 }
